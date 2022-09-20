@@ -959,6 +959,11 @@ h4 {
         width: 100%;
     }
 
+    img{
+        margin-right: auto;
+        margin-left: auto;
+    }
+
     .nav>li:hover {
         background: rgba(0, 0, 0, .08);
     }
